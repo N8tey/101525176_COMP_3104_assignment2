@@ -1,1 +1,3 @@
-Nathan Ogilvie\n101525176\nGit repository created from AWS EC2 instance
+Nathan Ogilvie
+101525176
+Git repository created from AWS EC2 instance
